@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Kelly</h1>
 <h3 align="center">Apasionada del desarrollo web,convencida de que la tecnología es la clave para impulsar innovaciones en todos los ámbitos de la sociedad .</h3>
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/kelly-carrion/]
+- 📄 Conoce mis experiencias https://www.linkedin.com/in/kelly-carrion/
 -  📫 Cómo contactarme **kellycarrion31@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -12,8 +12,8 @@
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<p align="left" style="text-decoration: none" > 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
