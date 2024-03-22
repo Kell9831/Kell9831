@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Kelly</h1>
-<h3 align="center">Apasionada del desarrollo web,convencida de que la tecnología es la clave para impulsar innovaciones en todos los ámbitos de la sociedad .</h3>
+<h3 align="center">Convencida de que la tecnología es la clave para impulsar innovaciones en todos los ámbitos de la sociedad .</h3>
 
 - 📄 Conoce mis experiencias https://www.linkedin.com/in/kelly-carrion/
 -  📫 Cómo contactarme **kellycarrion31@gmail.com**
@@ -30,12 +30,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
