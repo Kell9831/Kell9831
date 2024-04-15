@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, soy Kelly</h1>
 <h3 align="center">Convencida de que la tecnología es la clave para impulsar innovaciones en todos los ámbitos de la sociedad .</h3>
 
-- 📄 Conoce mis experiencias https://www.linkedin.com/in/kelly-carrion/
+- 📄 Conoce mis experiencias **https://www.linkedin.com/in/kelly-carrion/**
 -  📫 Cómo contactarme **kellycarrion31@gmail.com**
+-  💼 Portafolio **https://portafolio-kelly.netlify.app/**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
