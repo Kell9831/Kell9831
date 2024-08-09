@@ -3,7 +3,6 @@
 
 - 📄 Conoce mis experiencias **https://www.linkedin.com/in/kelly-carrion/**
 -  📫 Cómo contactarme **kellycarrion31@gmail.com**
--  💼 Portafolio **https://portafolio-kelly.netlify.app/**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
