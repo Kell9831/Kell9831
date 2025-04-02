@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Kelly</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">Convencida de que la tecnología es la clave para impulsar innovaciones en todos los ámbitos de la sociedad .</h3>
 
 - 📄 Conoce mis experiencias **https://www.linkedin.com/in/kelly-carrion/**
